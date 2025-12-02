@@ -17,20 +17,19 @@ Here are some ideas to get you started:
 
 ### 🤖&nbsp; Robotics
 
-|     |     |     |
-| :-: | :-: | :-- |
-| [daydreamer](https://github.com/danijar/daydreamer) | ![](https://img.shields.io/github/stars/danijar/daydreamer?label=%E2%98%85) | DayDreamer: World Models for Physical Robot Learning |
-| [AMP from mocap](https://github.com/escontra/AMP_for_hardware) | ![](https://img.shields.io/github/stars/escontra/AMP_for_hardware?label=%E2%98%85) | Learning reward functions from watching animals |
-| [GaussGym](https://github.com/escontra/gauss_gym) | ![](https://img.shields.io/github/stars/escontra/gauss_gym?label=%E2%98%85) | Train robot policies at 100K+ steps/second in photorealistic 3D environments |
-| [Holosoma](https://github.com/amazon-far/holosoma) | ![](https://img.shields.io/github/stars/amazon-far/holosoma?label=%E2%98%85) | Full-featured robot learning package (done at Amazon-FAR) |
+| Repo | Website | Stars | Description |
+| :-- | :--: | :--: | :-- |
+| [daydreamer](https://github.com/danijar/daydreamer) | [🌐](https://escontrela.me/daydreamer) | ![](https://img.shields.io/github/stars/danijar/daydreamer?label=%E2%98%85) | DayDreamer: World Models for Physical Robot Learning |
+| [AMP from mocap](https://github.com/escontra/AMP_for_hardware) | [🌐](https://escontrela.me/amp_in_real/) | ![](https://img.shields.io/github/stars/escontra/AMP_for_hardware?label=%E2%98%85) | Learning reward functions from watching animals |
+| [GaussGym](https://github.com/escontra/gauss_gym) | [🌐](https://escontrela.me/gauss_gym) | ![](https://img.shields.io/github/stars/escontra/gauss_gym?label=%E2%98%85) | Train robot policies at 100K+ steps/second in photorealistic 3D environments |
+| [Holosoma](https://github.com/amazon-far/holosoma) | [🌐](https://x.com/alescontrela/status/1995648955133427905?s=20) | ![](https://img.shields.io/github/stars/amazon-far/holosoma?label=%E2%98%85) | Full-featured robot learning package (Amazon-FAR) |
 
 ### 👾&nbsp; Reinforcement Learning
 
-|     |     |     |
-| :-: | :-: | :-- |
-| [VIPER](https://github.com/escontra/viper_rl) | ![](https://img.shields.io/github/stars/escontra/viper_rl?label=%E2%98%85) | Extracting general reward functions from video models |
-| [Score Matching RL](https://github.com/escontra/score_matching_rl) | ![](https://img.shields.io/github/stars/escontra/score_matching_rl?label=%E2%98%85) | Multimodal diffusion policies for off-policy RL |
-
+| Repo | Website | Stars | Description |
+| :-- | :--: | :--: | :-- |
+| [VIPER](https://github.com/escontra/viper_rl) | [🌐](https://escontrela.me/viper) | ![](https://img.shields.io/github/stars/escontra/viper_rl?label=%E2%98%85) | Extracting general reward functions from video models |
+| [Score Matching RL](https://github.com/escontra/score_matching_rl) | [🌐](https://escontrela.me/qsm/) | ![](https://img.shields.io/github/stars/escontra/score_matching_rl?label=%E2%98%85) | Multimodal diffusion policies for off-policy RL |
 
 ### 👨‍🏫&nbsp; Tutorials
 
